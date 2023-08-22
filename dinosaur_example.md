@@ -1,4 +1,4 @@
-Dinosaur sizes
+# Dinosaur sizes
 
 Size is an important aspect of dinosaur paleontology, of interest to both the general public and professional scientists. Dinosaurs show some of the most extreme variations in size of any land animal group, ranging from tiny hummingbirds, which can weigh as little as two grams, to the extinct titanosaurs, which could weigh as much as 60–100 t (66–110 short tons). The latest evidence suggests that dinosaurs' average size varied through the Triassic, early Jurassic, late Jurassic and Cretaceous periods, and dinosaurs probably only became widespread during the early or mid Jurassic.
 
